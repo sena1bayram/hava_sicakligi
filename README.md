@@ -1,2 +1,2 @@
 # hava_sicakligi
-girilen jhava sıcaklığına göre 
+girilen hava sıcaklığına göre yapılacak şeyleri öneriyor
